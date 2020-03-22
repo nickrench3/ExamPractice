@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ExamScore
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=inFile\ count
+comment2.target=java.lang.String[]\ inputArray(java.util.Scanner,\ int)
+comment3.params=array1\ array2
+comment3.target=int\ score(java.lang.String[],\ java.lang.String[])
+comment4.params=array1\ array2\ count
+comment4.target=java.lang.String[]\ wrongArray(java.lang.String[],\ java.lang.String[],\ int)
+comment5.params=array\ array2\ outFile\ score\ count
+comment5.target=void\ outputWrong(java.lang.String[],\ java.lang.String[],\ java.io.PrintWriter,\ int,\ int)
+comment6.params=
+comment6.target=int\ countQuestions()
+numComments=7
